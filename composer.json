@@ -1,9 +1,13 @@
 {
     "name": "shehab/make-plugin",
-    "description": "It will make a autoloading system oop plugin  ",
+    "description": "Description of your plugin",
     "type": "project",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "scripts": {
         "setup-plugin": "php setup-plugin.php"
     },
-    "require": {}
+    "require": {
+        "shehab/make-plugin": "*"
+    }
 }
