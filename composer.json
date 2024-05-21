@@ -1,0 +1,9 @@
+{
+    "name": "shehab/make-plugin",
+    "description": "It will make a autoloading system oop plugin  ",
+    "type": "project",
+    "scripts": {
+        "setup-plugin": "php setup-plugin.php"
+    },
+    "require": {}
+}
