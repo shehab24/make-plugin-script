@@ -12,8 +12,6 @@
             "type": "vcs",
             "url": "https://github.com/shehab/make-plugin"
         }
-    ],
-    "require": {
-        "shehab/make-plugin": "*"
-    }
+    ]
+   
 }
